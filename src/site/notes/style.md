@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/style/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home":true,"permalink":"/style/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 fdsfdsfsd
 
-ssss
+sss
