@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/3-publish-apu/0-alignment/ktm/"}
+{"dg-publish":true,"permalink":"/3-publish-apu/0-alignment/ktm/","tags":["gardenEntry"]}
 ---
+
+
 
 # 🌱페르소나끼리 대화..  
 
